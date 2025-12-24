@@ -3,7 +3,7 @@
 - 💻 **System Engineer & Security Researcher**
 - 🔭 I’m currently working on **Data Poisoning Defense** & **Juice shop**
 - 🔍 I’m interested in **OS Kernel**, **Network Security**, and **Low-level Systems**
-- 👯 I’m looking to collaborate on CTF 
+- 👯 I’m looking to collaborate on **CTF challenges**
 - 📫 Contact: ```ju2d68@g.skku.edu```
 
 <!--
