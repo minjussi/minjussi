@@ -1,8 +1,9 @@
 ## Hi, I'm Minju 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 💻 **System Engineer & Security Researcher**
+- 🔭 I’m currently working on **Data Poisoning Defense** & **Juice shop**
+- 🔍 I’m interested in **OS Kernel**, **Network Security**, and **Low-level Systems**
+- 👯 I’m looking to collaborate on CTF 
 - 📫 Contact: ```ju2d68@g.skku.edu```
 
 <!--
