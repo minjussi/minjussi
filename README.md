@@ -1,4 +1,4 @@
-## Hi, I'm Minju
+## Hi, I'm Minju 🙌
 
 - 💻 **System Engineer & Security Researcher**
 - 🔭 I’m currently working on **Data Poisoning Defense** & **Juice shop**
