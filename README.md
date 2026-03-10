@@ -1,7 +1,7 @@
 ## Hi, I'm Minju 🙌
 
 - 💻 **System Engineer & Security Researcher**
-- 🔭 I’m currently working on **Data Poisoning Defense** & **Juice shop**
+- 🔭 I’m currently working on **Data Poisoning Defense** & **OS xv6 risv project**
 - 🔍 I’m interested in **OS Kernel**, **Network Security**, and **Low-level Systems**
 - 👯 I’m looking to collaborate on **CTF challenges**
 - 📫 Contact: ```minju7237@gmail.com```
