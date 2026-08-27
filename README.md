@@ -3,7 +3,6 @@
 - 💻 **System Engineer & Security Researcher**
 - 🔭 I’m currently working on **Data Poisoning Defense** & **OS xv6 risv project**
 - 🔍 I’m interested in **OS Kernel**, **AI(Data) Security**, and **Hardware Security**
-- 👯 I’m looking to collaborate on **CTF challenges**
 - 📫 Contact: ```minju7237@gmail.com```
 
 <!--
