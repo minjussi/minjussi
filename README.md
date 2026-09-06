@@ -1,8 +1,8 @@
 ## Hi, I'm Minju 🙌
 
 - 💻 **System Engineer & Security Researcher**
-- 🔭 I’m currently working on **Data Poisoning Defense** & **OS xv6 risv project**
-- 🔍 I’m interested in **OS Kernel**, **AI(Data) Security**, and **Hardware Security**
+- 🔭 I’m currently working on **Starlink Hardware Research** in CSDF Lab & **Lecture Assignments**
+- 🔍 I’m interested in **System Software**, **Hardware Security**, and **AI(Data) Security**.
 - 📫 Contact: ```minju7237@gmail.com```
 
 <!--
